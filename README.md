@@ -8,9 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/biisal/biisal-file-stream-pro?color=green)
 ![GitHub](https://img.shields.io/github/license/biisal/biisal-file-stream-pro?color=green)
 
-**Here is our Demo bot -**
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/amcdevsupport)](https://t.me/JiosaavnNsbot)
 
 
 ## Features
